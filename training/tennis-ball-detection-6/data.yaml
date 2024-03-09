@@ -1,0 +1,12 @@
+names:
+- tennis ball
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: tennis-ball-detection
+  url: https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection/dataset/6
+  version: 6
+  workspace: viren-dhanwani
+test: ../test/images
+train: tennis-ball-detection-6/train/images
+val: tennis-ball-detection-6/valid/images
